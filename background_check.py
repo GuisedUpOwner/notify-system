@@ -35,27 +35,27 @@ def background_checks(user_id: str, current_streak: int, last_watered_date: date
 
 
 
-# === 🔧 Sample Data ===
-if __name__ == "__main__":
-    sample_user_id = "9f20c134-8bb8-4369-8efd-bfcfa7a5eaa0"
-    sample_current_streak = 6  # Close to 7-day Bloom Boss
-    last_watered_date_str = "2025-08-07"
-    sample_date = datetime.now(timezone.utc)  # Proper UTC-aware datetime
+# # === 🔧 Sample Data ===
+# if __name__ == "__main__":
+#     sample_user_id = "9f20c134-8bb8-4369-8efd-bfcfa7a5eaa0"
+#     sample_current_streak = 6  # Close to 7-day Bloom Boss
+#     last_watered_date_str = "2025-08-07"
+#     sample_date = datetime.now(timezone.utc)  # Proper UTC-aware datetime
 
-    try:
-        last_watered_date = datetime.fromisoformat(last_watered_date_str).replace(tzinfo=timezone.utc)
-    except ValueError:
-        print("⚠️ Invalid date format. Using fallback: today.")
-        last_watered_date = sample_date
+#     try:
+#         last_watered_date = datetime.fromisoformat(last_watered_date_str).replace(tzinfo=timezone.utc)
+#     except ValueError:
+#         print("⚠️ Invalid date format. Using fallback: today.")
+#         last_watered_date = sample_date
 
 
-    print("🔍 Running background checks for user...\n")
-    result = background_checks(
-        user_id=sample_user_id,
-        current_streak=sample_current_streak,
-        last_watered_date=last_watered_date,
-        check_date=sample_date
-    )
+#     print("🔍 Running background checks for user...\n")
+#     result = background_checks(
+#         user_id=sample_user_id,
+#         current_streak=sample_current_streak,
+#         last_watered_date=last_watered_date,
+#         check_date=sample_date
+#     )
 
-    # Pretty-print result
-    print(json.dumps(result, indent=2, default=str, ensure_ascii=False))
+#     # Pretty-print result
+#     print(json.dumps(result, indent=2, default=str, ensure_ascii=False))

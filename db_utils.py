@@ -127,21 +127,23 @@ def get_all_users(db):
     """
     Fetch all active users with their metadata.
     """
-    result = db.execute(
-        text("""
-            SELECT 
-                u.id AS user_id,
-                u.push_token,
-                us.current_streak,
-                MAX(us.streak_date) AS last_streak_date,
-                MAX(p.last_watered) AS last_watered_date
-            FROM users u
-            LEFT JOIN user_streaks us ON u.id = us.user_id
-            LEFT JOIN plant_progress p ON u.id = p.user_id
-            WHERE u.is_active = true AND u.push_token IS NOT NULL
-            GROUP BY u.id, u.push_token, us.current_streak
-        """)
-    )
+    query = text("""
+        SELECT 
+            u.id AS user_id,
+            u.push_token,
+            gs.current_streak AS current_streak,
+            p.last_watered_date AS last_watered_date
+        FROM users u
+        LEFT JOIN garden_stats gs 
+            ON gs.user_id = u.id
+        LEFT JOIN user_plants p 
+            ON p.user_id = u.id
+           AND p.is_active = true
+        WHERE u.push_token IS NOT NULL
+    """)
+
+    result = db.execute(query)
+
     return result.fetchall()
 
 

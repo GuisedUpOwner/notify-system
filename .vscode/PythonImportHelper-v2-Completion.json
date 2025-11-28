@@ -1,0 +1,1826 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "isExtraImport": true,
+        "detail": "user_db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_friends",
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "isExtraImport": true,
+        "detail": "user_db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "importPath": "notifier",
+        "description": "notifier",
+        "isExtraImport": true,
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "pathlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "pformat",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "jmespath",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "exceptions",
+        "importPath": "jmespath",
+        "description": "jmespath",
+        "isExtraImport": true,
+        "detail": "jmespath",
+        "documentation": {}
+    },
+    {
+        "label": "check_plant_badges_upcoming",
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "isExtraImport": true,
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_single_app_streak_message",
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "isExtraImport": true,
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_upcoming_achievements",
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "isExtraImport": true,
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "check_plant_badges_upcoming",
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "isExtraImport": true,
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_single_app_streak_message",
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "isExtraImport": true,
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "BADGES",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "PLANT_BADGES",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "get_plant_messages",
+        "importPath": "constants",
+        "description": "constants",
+        "isExtraImport": true,
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "background_checks",
+        "importPath": "background_check",
+        "description": "background_check",
+        "isExtraImport": true,
+        "detail": "background_check",
+        "documentation": {}
+    },
+    {
+        "label": "background_checks",
+        "importPath": "background_check",
+        "description": "background_check",
+        "isExtraImport": true,
+        "detail": "background_check",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "isExtraImport": true,
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "classify_user",
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "isExtraImport": true,
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "group_users_by_schedule",
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "isExtraImport": true,
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemyError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "BackgroundTasks",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "requests",
+        "description": "requests",
+        "isExtraImport": true,
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "process_phase_change",
+        "importPath": "usecases.phase_change",
+        "description": "usecases.phase_change",
+        "isExtraImport": true,
+        "detail": "usecases.phase_change",
+        "documentation": {}
+    },
+    {
+        "label": "firebase_admin",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "credentials",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "messaging",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "check_user_badge_progress",
+        "importPath": "checks",
+        "description": "checks",
+        "isExtraImport": true,
+        "detail": "checks",
+        "documentation": {}
+    },
+    {
+        "label": "check_user_plant_progress",
+        "importPath": "checks",
+        "description": "checks",
+        "isExtraImport": true,
+        "detail": "checks",
+        "documentation": {}
+    },
+    {
+        "label": "connect_db",
+        "kind": 2,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "def connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,\n            password=DB_PASSWORD,\n            host=DB_HOST,\n            port=DB_PORT\n        )\n        return conn",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "detect_image_labels",
+        "kind": 2,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "def detect_image_labels(post_id, image_key, max_labels=10, min_conf=70):\n    \"\"\"Detect labels for an image using AWS Rekognition.\"\"\"\n    try:\n        rekognition_client = boto3.client(\n            'rekognition',\n            aws_access_key_id=AWS_ACCESS_KEY,\n            aws_secret_access_key=AWS_SECRET_KEY,\n            region_name=AWS_REGION\n        )\n        response = rekognition_client.detect_labels(",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "def load_checkpoint():\n    \"\"\"Load last saved offset if exists\"\"\"\n    if os.path.exists(CHECKPOINT_FILE):\n        with open(CHECKPOINT_FILE, \"r\") as f:\n            return int(f.read().strip())\n    return 0\ndef save_checkpoint(offset):\n    \"\"\"Save current offset to checkpoint file\"\"\"\n    with open(CHECKPOINT_FILE, \"w\") as f:\n        f.write(str(offset))",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint",
+        "kind": 2,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "def save_checkpoint(offset):\n    \"\"\"Save current offset to checkpoint file\"\"\"\n    with open(CHECKPOINT_FILE, \"w\") as f:\n        f.write(str(offset))\n# -------------------------\n# Generate Labels CSV in Chunks (with resume)\n# -------------------------\ndef generate_labels_csv(chunk_size=100, output_file=\"post_labels.csv\"):\n    conn = connect_db()\n    if not conn:",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "generate_labels_csv",
+        "kind": 2,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "def generate_labels_csv(chunk_size=100, output_file=\"post_labels.csv\"):\n    conn = connect_db()\n    if not conn:\n        print(\"DB connection failed\")\n        return \"\"\n    cursor = conn.cursor()\n    # Resume from last checkpoint\n    offset = load_checkpoint()\n    print(f\"▶️ Resuming from offset {offset}\")\n    # Write header only if CSV doesn't exist",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "DB_NAME = os.getenv(\"DB_DATABASE\")\nDB_USER = os.getenv(\"DB_USERNAME\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "DB_USER = os.getenv(\"DB_USERNAME\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASSWORD",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "DB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "DB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "DB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_ACCESS_KEY",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "AWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_SECRET_KEY",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "AWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_REGION",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "AWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_BUCKET_NAME",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "AWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,\n            password=DB_PASSWORD,",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKPOINT_FILE",
+        "kind": 5,
+        "importPath": "test.image_gen_labels",
+        "description": "test.image_gen_labels",
+        "peekOfCode": "CHECKPOINT_FILE = \"labels_checkpoint.txt\"\ndef load_checkpoint():\n    \"\"\"Load last saved offset if exists\"\"\"\n    if os.path.exists(CHECKPOINT_FILE):\n        with open(CHECKPOINT_FILE, \"r\") as f:\n            return int(f.read().strip())\n    return 0\ndef save_checkpoint(offset):\n    \"\"\"Save current offset to checkpoint file\"\"\"\n    with open(CHECKPOINT_FILE, \"w\") as f:",
+        "detail": "test.image_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "connect_db",
+        "kind": 2,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "def connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,\n            password=DB_PASSWORD,\n            host=DB_HOST,\n            port=DB_PORT\n        )\n        return conn",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "detect_video_labels",
+        "kind": 2,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "def detect_video_labels(post_id, video_key, min_conf=70):\n    \"\"\"Detect labels for a video using AWS Rekognition\"\"\"\n    try:\n        rekognition_client = boto3.client(\n            'rekognition',\n            aws_access_key_id=AWS_ACCESS_KEY,\n            aws_secret_access_key=AWS_SECRET_KEY,\n            region_name=AWS_REGION\n        )\n        # Use DB key directly (it already has correct prefix, like \"public/videos/...\")",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "def load_checkpoint():\n    if os.path.exists(CHECKPOINT_FILE):\n        with open(CHECKPOINT_FILE, \"r\") as f:\n            return int(f.read().strip())\n    return 0\ndef save_checkpoint(offset):\n    with open(CHECKPOINT_FILE, \"w\") as f:\n        f.write(str(offset))\n# -------------------------\n# Generate Labels CSV in Chunks (Videos)",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint",
+        "kind": 2,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "def save_checkpoint(offset):\n    with open(CHECKPOINT_FILE, \"w\") as f:\n        f.write(str(offset))\n# -------------------------\n# Generate Labels CSV in Chunks (Videos)\n# -------------------------\ndef generate_video_labels_csv(chunk_size=10, output_file=\"video_labels.csv\"):\n    conn = connect_db()\n    if not conn:\n        print(\"DB connection failed\")",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "generate_video_labels_csv",
+        "kind": 2,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "def generate_video_labels_csv(chunk_size=10, output_file=\"video_labels.csv\"):\n    conn = connect_db()\n    if not conn:\n        print(\"DB connection failed\")\n        return \"\"\n    cursor = conn.cursor()\n    offset = load_checkpoint()\n    print(f\"▶️ Resuming from offset {offset}\")\n    # Write header only if CSV doesn't exist\n    if not os.path.exists(output_file):",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "DB_NAME = os.getenv(\"DB_DATABASE\")\nDB_USER = os.getenv(\"DB_USERNAME\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "DB_USER = os.getenv(\"DB_USERNAME\")\nDB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASSWORD",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "DB_PASSWORD = os.getenv(\"DB_PASSWORD\")\nDB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "DB_HOST = os.getenv(\"DB_HOST\")\nDB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "DB_PORT = int(os.getenv(\"DB_PORT\"))\n# AWS Config\nAWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_ACCESS_KEY",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "AWS_ACCESS_KEY = os.getenv(\"AWS_ACCESS_KEY\")\nAWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_SECRET_KEY",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "AWS_SECRET_KEY = os.getenv(\"AWS_SECRET_KEY\")\nAWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_REGION",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "AWS_REGION = os.getenv(\"AWS_REGION\")\nAWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_BUCKET_NAME",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "AWS_BUCKET_NAME = os.getenv(\"AWS_BUCKET_NAME\")\n# -------------------------\n# Database Connection\n# -------------------------\ndef connect_db():\n    try:\n        conn = psycopg2.connect(\n            database=DB_NAME,\n            user=DB_USER,\n            password=DB_PASSWORD,",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "CHECKPOINT_FILE",
+        "kind": 5,
+        "importPath": "test.video_gen_labels",
+        "description": "test.video_gen_labels",
+        "peekOfCode": "CHECKPOINT_FILE = \"video_labels_checkpoint.txt\"\ndef load_checkpoint():\n    if os.path.exists(CHECKPOINT_FILE):\n        with open(CHECKPOINT_FILE, \"r\") as f:\n            return int(f.read().strip())\n    return 0\ndef save_checkpoint(offset):\n    with open(CHECKPOINT_FILE, \"w\") as f:\n        f.write(str(offset))\n# -------------------------",
+        "detail": "test.video_gen_labels",
+        "documentation": {}
+    },
+    {
+        "label": "process_phase_change",
+        "kind": 2,
+        "importPath": "usecases.phase_change",
+        "description": "usecases.phase_change",
+        "peekOfCode": "def process_phase_change(user_id, previous_phase):\n    db = get_db(\"prod\")\n    user = get_user(db, user_id)\n    print('User: ', user)\n    if not user:\n        return\n    current_phase = user[\"current_phase_name\"]\n    name = user[\"username\"] or user[\"name\"]\n    db_text = f\" changed their phase from '{previous_phase}' to '{current_phase}'.\"\n    friends = get_friends(db, user_id)",
+        "detail": "usecases.phase_change",
+        "documentation": {}
+    },
+    {
+        "label": "insert_notifications",
+        "kind": 2,
+        "importPath": "usecases.phase_change",
+        "description": "usecases.phase_change",
+        "peekOfCode": "def insert_notifications(db, rows):\n    if not rows:\n        return\n    now = datetime.now(timezone.utc)\n    # add id + timestamps\n    for r in rows:\n        r[\"id\"] = str(uuid.uuid4())\n        r[\"created_at\"] = now\n        r[\"updated_at\"] = now\n    db.execute(",
+        "detail": "usecases.phase_change",
+        "documentation": {}
+    },
+    {
+        "label": "firestore_adminCallTransformer",
+        "kind": 6,
+        "importPath": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "description": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "peekOfCode": "class firestore_adminCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'bulk_delete_documents': ('name', 'collection_ids', 'namespace_ids', ),\n        'create_backup_schedule': ('parent', 'backup_schedule', ),\n        'create_database': ('parent', 'database', 'database_id', ),\n        'create_index': ('parent', 'index', ),\n        'create_user_creds': ('parent', 'user_creds', 'user_creds_id', ),\n        'delete_backup': ('name', ),\n        'delete_backup_schedule': ('name', ),",
+        "detail": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "description": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "description": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=firestore_adminCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": "venv.bin.fixup_firestore_admin_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "firestoreCallTransformer",
+        "kind": 6,
+        "importPath": "venv.bin.fixup_firestore_v1_keywords",
+        "description": "venv.bin.fixup_firestore_v1_keywords",
+        "peekOfCode": "class firestoreCallTransformer(cst.CSTTransformer):\n    CTRL_PARAMS: Tuple[str] = ('retry', 'timeout', 'metadata')\n    METHOD_TO_PARAMS: Dict[str, Tuple[str]] = {\n        'batch_get_documents': ('database', 'documents', 'mask', 'transaction', 'new_transaction', 'read_time', ),\n        'batch_write': ('database', 'writes', 'labels', ),\n        'begin_transaction': ('database', 'options', ),\n        'commit': ('database', 'writes', 'transaction', ),\n        'create_document': ('parent', 'collection_id', 'document', 'document_id', 'mask', ),\n        'delete_document': ('name', 'current_document', ),\n        'get_document': ('name', 'mask', 'transaction', 'read_time', ),",
+        "detail": "venv.bin.fixup_firestore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "partition",
+        "kind": 2,
+        "importPath": "venv.bin.fixup_firestore_v1_keywords",
+        "description": "venv.bin.fixup_firestore_v1_keywords",
+        "peekOfCode": "def partition(\n    predicate: Callable[[Any], bool],\n    iterator: Sequence[Any]\n) -> Tuple[List[Any], List[Any]]:\n    \"\"\"A stable, out-of-place partition.\"\"\"\n    results = ([], [])\n    for i in iterator:\n        results[int(predicate(i))].append(i)\n    # Returns trueList, falseList\n    return results[1], results[0]",
+        "detail": "venv.bin.fixup_firestore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "fix_files",
+        "kind": 2,
+        "importPath": "venv.bin.fixup_firestore_v1_keywords",
+        "description": "venv.bin.fixup_firestore_v1_keywords",
+        "peekOfCode": "def fix_files(\n    in_dir: pathlib.Path,\n    out_dir: pathlib.Path,\n    *,\n    transformer=firestoreCallTransformer(),\n):\n    \"\"\"Duplicate the input dir to the output dir, fixing file method calls.\n    Preconditions:\n    * in_dir is a real directory\n    * out_dir is a real, empty directory",
+        "detail": "venv.bin.fixup_firestore_v1_keywords",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.bin.jp",
+        "description": "venv.bin.jp",
+        "peekOfCode": "def main():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('expression')\n    parser.add_argument('-f', '--filename',\n                        help=('The filename containing the input data.  '\n                              'If a filename is not given then data is '\n                              'read from stdin.'))\n    parser.add_argument('--ast', action='store_true',\n                        help=('Pretty print the AST, do not search the data.'))\n    args = parser.parse_args()",
+        "detail": "venv.bin.jp",
+        "documentation": {}
+    },
+    {
+        "label": "background_checks",
+        "kind": 2,
+        "importPath": "background_check",
+        "description": "background_check",
+        "peekOfCode": "def background_checks(user_id: str, current_streak: int, last_watered_date: datetime, check_date: datetime = None):\n    \"\"\"\n    Call both plant and app streak checks.\n    Returns upcoming nudges (for notifications).\n    \"\"\"\n    # Get plant-based upcoming badges\n    plant_upcoming = check_plant_badges_upcoming(user_id, last_watered_date, current_streak)\n    # Get app usage-based upcoming achievements\n    app_single_upcoming = get_single_app_streak_message(user_id, check_date)\n    # app_upcoming = get_upcoming_achievements(user_id, check_date)",
+        "detail": "background_check",
+        "documentation": {}
+    },
+    {
+        "label": "tokens",
+        "kind": 5,
+        "importPath": "background_check",
+        "description": "background_check",
+        "peekOfCode": "tokens = [\"dDP3xJ0tTK-21L1aQYH8Ic:APA91bFZBDECRjVW-mzGytvdfHCR5Srvzjs1P9o6Gb3UT_0-ugtWJU8CUcPT0Y_HoD3ey-asL_4c5-GLMS_Ijok9DCjgBzYMEnuaeh-Enx839HhzudsLQzQ\", \"frMgjKkYcEcevbYPulSQms:APA91bHCBGu5Z005euBShEnW2SM-jrEeNru22fwxte3SgFEw3NwiQUdpaKM17D_bmZZEdX_D6-4oyTOGwhHsE9GpAtzcZclhv6Ep8Ni62_oZ-FMvNE2dgEg\"]\n# send_push_notification(\n#     tokens=tokens,\n#     title=\"You're inactive 😴\",\n#     body=\"Time to return to the app and check your messages!\"\n# )\ndef background_checks(user_id: str, current_streak: int, last_watered_date: datetime, check_date: datetime = None):\n    \"\"\"\n    Call both plant and app streak checks.\n    Returns upcoming nudges (for notifications).",
+        "detail": "background_check",
+        "documentation": {}
+    },
+    {
+        "label": "get_single_app_streak_message",
+        "kind": 2,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "def get_single_app_streak_message(user_id: str, date: datetime = None) -> Dict[str, Any]:\n    \"\"\"\n    Returns a rich motivational nudge for the most urgent upcoming app streak.\n    Returns: { \"title\": \"...\", \"description\": \"...\", \"type\": \"consistent|inconsistent|losing_streak\" }\n    \"\"\"\n    if date is None:\n        date = datetime.now(timezone.utc)\n    db = get_db()  # Use prod DB\n    candidates = []  # List of (urgency_score, result_dict)\n    def random_choice(templates, **kwargs):",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_upcoming_achievements",
+        "kind": 2,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "def get_upcoming_achievements(user_id: str, date: datetime = None):\n    \"\"\"\n    Returns list of upcoming achievement nudges based on app usage streaks.\n    Does NOT award badges.\n    \"\"\"\n    if date is None:\n        date = datetime.now(timezone.utc)\n    db = get_db()\n    upcoming = []\n    # Helper to randomize message",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "check_plant_badges_upcoming",
+        "kind": 2,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "def check_plant_badges_upcoming(user_id: str, last_watered_date: datetime, current_streak: int) -> List[Dict[str, Any]]:\n    \"\"\"\n    Returns a list of upcoming plant badge nudges with:\n    - title\n    - description\n    - type: emotional state ('thriving', 'hopeful', 'sad', 'neglected', 'urgent', 'upcoming')\n    \"\"\"\n    db = get_db()\n    today = datetime.now(timezone.utc).date()\n    # === 1. Find next badge milestone ===",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "STREAK_TEMPLATES",
+        "kind": 5,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "STREAK_TEMPLATES = {\n    \"weekly\": {\n        \"consistent\": {\n            \"titles\": [\n                \"🔥 Streak in Motion!\",\n                \"🎯 Weekly Warrior Rising!\",\n                \"⚡ Momentum Builder\",\n                \"📅 Almost There!\",\n                \"🏆 Badge on the Horizon\",\n                \"💫 Daily Dynamo\",",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "FALLBACK",
+        "kind": 5,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "FALLBACK = {\n    \"title\": \"You're Doing Amazing!\",\n    \"description\": \"Keep up the great work — every tap counts! 🌿✨\",\n    \"type\": \"consistent\"\n}\ndef get_single_app_streak_message(user_id: str, date: datetime = None) -> Dict[str, Any]:\n    \"\"\"\n    Returns a rich motivational nudge for the most urgent upcoming app streak.\n    Returns: { \"title\": \"...\", \"description\": \"...\", \"type\": \"consistent|inconsistent|losing_streak\" }\n    \"\"\"",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "PLANT_TEMPLATES",
+        "kind": 5,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "PLANT_TEMPLATES = {\n    \"thriving\": {\n        \"titles\": [\n            \"🌱 Your Plant is Thriving!\",\n            \"💧 Loved and Watered\",\n            \"✨ Vibrant & Alive\",\n            \"🌼 Blooming with Joy\"\n        ],\n        \"descriptions\": [\n            \"Your plant feels your care — it’s glowing with health and gratitude.\",",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "PLANT_FALLBACK",
+        "kind": 5,
+        "importPath": "badge_checks",
+        "description": "badge_checks",
+        "peekOfCode": "PLANT_FALLBACK = {\n    \"title\": \"Keep Growing\",\n    \"description\": \"Every drop counts. Keep watering — your garden is listening. 🌿💧\",\n    \"type\": \"hopeful\"\n}\ndef check_plant_badges_upcoming(user_id: str, last_watered_date: datetime, current_streak: int) -> List[Dict[str, Any]]:\n    \"\"\"\n    Returns a list of upcoming plant badge nudges with:\n    - title\n    - description",
+        "detail": "badge_checks",
+        "documentation": {}
+    },
+    {
+        "label": "check_user_badge_progress",
+        "kind": 2,
+        "importPath": "checks",
+        "description": "checks",
+        "peekOfCode": "def check_user_badge_progress(user_id: str):\n    db = get_db(\"prod\")\n    # Fetch badge progress along with badge metadata\n    badge_progress_list = db.execute(text(\"\"\"\n        SELECT \n            bp.badge_id,\n            bp.progress,\n            b.name AS badge_name,\n            b.required_progress,\n            b.rarity",
+        "detail": "checks",
+        "documentation": {}
+    },
+    {
+        "label": "check_user_plant_progress",
+        "kind": 2,
+        "importPath": "checks",
+        "description": "checks",
+        "peekOfCode": "def check_user_plant_progress(user_id: str):\n    db = get_db(\"prod\")\n    plants = db.execute(text(\"\"\"\n        SELECT id, name, current_stage, water_streak, last_watered_date\n        FROM user_plants\n        WHERE user_id = :uid AND is_active = true\n    \"\"\"), {\"uid\": user_id}).mappings().all()\n    notifications = []\n    for plant in plants:\n        name = plant[\"name\"]",
+        "detail": "checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_plant_messages",
+        "kind": 2,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "def get_plant_messages(badge_name: str, days_remaining: int) -> list:\n    \"\"\"\n    Returns a list of fun, motivational messages for upcoming plant badges.\n    Works for any badge (e.g., Bloom Boss, Root Ruler) and any days remaining.\n    \"\"\"\n    day_word = \"day\" if days_remaining == 1 else \"days\"\n    s = \"s\" if days_remaining > 1 else \"\"\n    templates = [\n        \"🌱 Just {days} more splashy {day}s 'til you're a full-on {badge}!\",\n        \"💧 {days} more watering {day}s and you’ll level up to {badge} status!\",",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "BADGES",
+        "kind": 5,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "BADGES = {\n    \"WEEKLY\": \"Weekly Warrior\",\n    \"MONTHLY\": \"Monthly Master\",\n    \"NIGHT_OWL\": \"Night Owl\",\n    \"EARLY_BIRD\": \"Early Bird\",\n}\nPLANT_BADGES = {\n    1: \"The Daily Drip\",\n    3: \"Hydration Hero\",\n    5: \"Sprout Keeper\",",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "PLANT_BADGES",
+        "kind": 5,
+        "importPath": "constants",
+        "description": "constants",
+        "peekOfCode": "PLANT_BADGES = {\n    1: \"The Daily Drip\",\n    3: \"Hydration Hero\",\n    5: \"Sprout Keeper\",\n    7: \"Bloom Boss\",\n    10: \"The Plant Whisperer\",\n    15: \"Water Warrior\",\n    30: \"Root Ruler\",\n    50: \"The Garden Guardian\",\n    70: \"Captain Chlorophyll\",",
+        "detail": "constants",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "daily_nudges copy",
+        "description": "daily_nudges copy",
+        "peekOfCode": "def main():\n    engine = create_engine(MAIN_DATABASE_URL)\n    with engine.connect() as conn:\n        # Set db session\n        db = conn.execution_options(autocommit=False)\n        # 1. Get all users\n        raw_users = get_all_users(db)\n        check_date = datetime.now(timezone.utc)\n        # 2. Classify each user\n        classified_users = [",
+        "detail": "daily_nudges copy",
+        "documentation": {}
+    },
+    {
+        "label": "send_chunked_notifications",
+        "kind": 2,
+        "importPath": "daily_nudges copy",
+        "description": "daily_nudges copy",
+        "peekOfCode": "def send_chunked_notifications(users_chunk, title: str, body: str):\n    \"\"\"\n    Send push notifications in chunks of 100 (or your provider’s limit).\n    \"\"\"\n    tokens = [u[\"token\"] for u in users_chunk]\n    if not tokens:\n        return\n    try:\n        send_push_notification(\n            tokens=tokens,",
+        "detail": "daily_nudges copy",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DATABASE_URL",
+        "kind": 5,
+        "importPath": "daily_nudges copy",
+        "description": "daily_nudges copy",
+        "peekOfCode": "MAIN_DATABASE_URL = os.getenv(\"MAIN_DATABASE_URL\")\ndef main():\n    engine = create_engine(MAIN_DATABASE_URL)\n    with engine.connect() as conn:\n        # Set db session\n        db = conn.execution_options(autocommit=False)\n        # 1. Get all users\n        raw_users = get_all_users(db)\n        check_date = datetime.now(timezone.utc)\n        # 2. Classify each user",
+        "detail": "daily_nudges copy",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def get_all_users(db):\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,\n            u.push_token AS push_token,\n            gs.current_streak AS current_streak,\n            p.last_watered_date AS last_watered_date\n        FROM users u\n        LEFT JOIN garden_stats gs \n            ON gs.user_id = u.id",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "classify_user",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def classify_user(user: Dict, check_date: datetime) -> Dict:\n    now = check_date\n    # No last_streak_date returned from SQL, so treat streak freshness using watering streak only\n    # Since garden_stats.current_streak is your streak source\n    current_streak = user.get(\"current_streak\", 0)\n    last_watered = user.get(\"last_watered_date\")\n    # Convert last_watered (date) into datetime\n    if last_watered:\n        if isinstance(last_watered, datetime):\n            lw = last_watered",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "choose_schedule_type",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def choose_schedule_type(app_type: str, plant_type: str) -> str:\n    # returns one of keys in SCHEDULE_RULES\n    if app_type in (\"losing_streak\",) or plant_type == \"neglected\":\n        return \"lost_streak\"\n    if app_type == \"inconsistent\" or plant_type == \"sad\":\n        return \"inconsistent\"\n    if app_type == \"consistent\" or plant_type == \"thriving\":\n        return \"consistent\"\n    return \"not_started\"\n# ======== Notification helpers ========",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "build_message_for_user",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def build_message_for_user(user: Dict, check_date: datetime) -> Tuple[str, str]:\n    \"\"\"Run background checks and return (title, body) for a single user.\n    Handles both dict and list responses from plant badge logic.\n    \"\"\"\n    res = background_checks(\n        user_id=user[\"user_id\"],\n        current_streak=user.get(\"current_streak\", 0),\n        last_watered_date=user.get(\"last_watered_date\"),\n        check_date=check_date,\n    )",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "retry_send",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def retry_send(tokens: List[str], title: str, body: str) -> bool:\n    \"\"\"Attempt to send push notification with retries and exponential backoff.\n    Returns True on success, False on final failure.\n    \"\"\"\n    attempt = 0\n    while attempt < PUSH_RETRY_ATTEMPTS:\n        try:\n            # send_push_notification(tokens=tokens, title=title, body=body)\n            logger.info(\"Sent %d tokens (title='%s')\", len(tokens), title)\n            return True",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "def main():\n    if not MAIN_DATABASE_URL:\n        logger.error(\"MAIN_DATABASE_URL not set\")\n        return\n    engine = create_engine(MAIN_DATABASE_URL)\n    check_date = datetime.now(timezone.utc)\n    # 1) Fetch users with DB retry\n    users = None\n    for attempt in range(1, DB_RETRY_ATTEMPTS + 1):\n        try:",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "MAIN_DATABASE_URL",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "MAIN_DATABASE_URL = os.getenv(\"MAIN_DATABASE_URL\")\nMAX_BATCH = 100\nDB_RETRY_ATTEMPTS = 3\nDB_RETRY_BACKOFF = 2  # seconds (exponential)\nPUSH_RETRY_ATTEMPTS = 3\nPUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_BATCH",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "MAX_BATCH = 100\nDB_RETRY_ATTEMPTS = 3\nDB_RETRY_BACKOFF = 2  # seconds (exponential)\nPUSH_RETRY_ATTEMPTS = 3\nPUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "DB_RETRY_ATTEMPTS",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "DB_RETRY_ATTEMPTS = 3\nDB_RETRY_BACKOFF = 2  # seconds (exponential)\nPUSH_RETRY_ATTEMPTS = 3\nPUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"\n        SELECT ",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "DB_RETRY_BACKOFF",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "DB_RETRY_BACKOFF = 2  # seconds (exponential)\nPUSH_RETRY_ATTEMPTS = 3\nPUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "PUSH_RETRY_ATTEMPTS",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "PUSH_RETRY_ATTEMPTS = 3\nPUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,\n            u.push_token AS push_token,",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "PUSH_RETRY_BACKOFF",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "PUSH_RETRY_BACKOFF = 1  # seconds (exponential)\nlogging.basicConfig(level=logging.INFO, format=\"%(asctime)s %(levelname)s %(message)s\")\nlogger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,\n            u.push_token AS push_token,\n            gs.current_streak AS current_streak,",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# ======== DB utilities (simplified) ========\ndef get_all_users(db):\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,\n            u.push_token AS push_token,\n            gs.current_streak AS current_streak,\n            p.last_watered_date AS last_watered_date\n        FROM users u",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEDULE_RULES",
+        "kind": 5,
+        "importPath": "daily_nudges",
+        "description": "daily_nudges",
+        "peekOfCode": "SCHEDULE_RULES = {\n    \"lost_streak\": (\"08:00\", \"Your plant misses you 💔 Tap to water!\"),\n    \"inconsistent\": (\"12:00\", \"Keep going — you're so close!\"),\n    \"consistent\": (\"18:00\", \"You're on fire! Just one more day!\"),\n    \"not_started\": (\"14:00\", \"Your garden is waiting 🌱 Start today!\"),\n}\ndef choose_schedule_type(app_type: str, plant_type: str) -> str:\n    # returns one of keys in SCHEDULE_RULES\n    if app_type in (\"losing_streak\",) or plant_type == \"neglected\":\n        return \"lost_streak\"",
+        "detail": "daily_nudges",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_db(db_type='dev'):\n    if db_type == 'prod':\n        return ProdSessionLocal()\n    elif db_type == 'ai':\n        return AISessionLocal()\n    elif db_type == 'dev':\n        return DevSessionLocal()\n    else:\n        raise ValueError(\"Invalid database type. Use 'prod' or 'ai'.\")\n# Dependency: Get Prod DB",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_prod_db",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_prod_db():\n    db = ProdSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n# Dependency: Get Dev DB\ndef get_dev_db():\n    db = DevSessionLocal()\n    try:",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_dev_db",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_dev_db():\n    db = DevSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n# Dependency: Get AI DB\ndef get_ai_db():\n    db = AISessionLocal()\n    try:",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_ai_db",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_ai_db():\n    db = AISessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "PROD_DATABASE_URL",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "PROD_DATABASE_URL = os.getenv(\"PROD_DATABASE_URL\")\nDEV_DATABASE_URL = os.getenv(\"DEV_DATABASE_URL\")\nAI_DATABASE_URL = os.getenv(\"AI_DATABASE_URL\")\n# Production Database\nprod_engine = create_engine(PROD_DATABASE_URL)\nProdSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=prod_engine)\n# Development Database\ndev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "DEV_DATABASE_URL",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "DEV_DATABASE_URL = os.getenv(\"DEV_DATABASE_URL\")\nAI_DATABASE_URL = os.getenv(\"AI_DATABASE_URL\")\n# Production Database\nprod_engine = create_engine(PROD_DATABASE_URL)\nProdSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=prod_engine)\n# Development Database\ndev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "AI_DATABASE_URL",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "AI_DATABASE_URL = os.getenv(\"AI_DATABASE_URL\")\n# Production Database\nprod_engine = create_engine(PROD_DATABASE_URL)\nProdSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=prod_engine)\n# Development Database\ndev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "prod_engine",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "prod_engine = create_engine(PROD_DATABASE_URL)\nProdSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=prod_engine)\n# Development Database\ndev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "ProdSessionLocal",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "ProdSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=prod_engine)\n# Development Database\ndev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):\n    if db_type == 'prod':",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "dev_engine",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "dev_engine = create_engine(DEV_DATABASE_URL)\nDevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):\n    if db_type == 'prod':\n        return ProdSessionLocal()\n    elif db_type == 'ai':",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "DevSessionLocal",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "DevSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=dev_engine)\n# AI Memory Database\nai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):\n    if db_type == 'prod':\n        return ProdSessionLocal()\n    elif db_type == 'ai':\n        return AISessionLocal()",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "ai_engine",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "ai_engine = create_engine(AI_DATABASE_URL)\nAISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):\n    if db_type == 'prod':\n        return ProdSessionLocal()\n    elif db_type == 'ai':\n        return AISessionLocal()\n    elif db_type == 'dev':\n        return DevSessionLocal()",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "AISessionLocal",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "AISessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=ai_engine)\n# Database selection helper\ndef get_db(db_type='dev'):\n    if db_type == 'prod':\n        return ProdSessionLocal()\n    elif db_type == 'ai':\n        return AISessionLocal()\n    elif db_type == 'dev':\n        return DevSessionLocal()\n    else:",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_id",
+        "kind": 2,
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "peekOfCode": "def get_user_by_id(user_id: str):\n    db = get_db(\"prod\")\n    try:\n        # 1️⃣ user core + phase name -------------------------------------------------------------\n        user_row = (\n            db.execute(\n                text(\n                    \"\"\"\n                    SELECT  u.id, u.name, u.username, u.dob,\n                            u.gender, u.pronouns, u.device_type,",
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_users",
+        "kind": 2,
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "peekOfCode": "def get_all_users(db):\n    \"\"\"\n    Fetch all active users with their metadata.\n    \"\"\"\n    query = text(\"\"\"\n        SELECT \n            u.id AS user_id,\n            u.push_token,\n            gs.current_streak AS current_streak,\n            p.last_watered_date AS last_watered_date",
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "classify_user",
+        "kind": 2,
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "peekOfCode": "def classify_user(row, check_date: datetime):\n    now = check_date\n    last_streak = row.last_streak_date\n    last_watered = row.last_watered_date\n    current_streak = row.current_streak or 0\n    days_since_streak = (now - last_streak).days if last_streak else 999\n    days_since_watered = (now - last_watered).days if last_watered else 999\n    # App streak classification\n    if days_since_streak == 0:\n        app_type = \"consistent\"",
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "group_users_by_schedule",
+        "kind": 2,
+        "importPath": "db_utils",
+        "description": "db_utils",
+        "peekOfCode": "def group_users_by_schedule(users, check_date: datetime):\n    \"\"\"\n    Group users by notification time and message type.\n    Returns: { \"8:00\": [users], \"12:00\": [users], ... }\n    \"\"\"\n    # Define schedule logic\n    SCHEDULE_RULES = {\n        \"lost_streak\": (\"8:00\", \"Your plant misses you 💔 Tap to water!\"),\n        \"inconsistent\": (\"12:00\", \"Keep going — you're so close!\"),\n        \"consistent\": (\"18:00\", \"You're on fire! Just one more day!\"),",
+        "detail": "db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "NotificationRequest",
+        "kind": 6,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "class NotificationRequest(BaseModel):\n    tokens: List[str]\n    title: str\n    body: str\n    image: Optional[str] = None\n    data: Optional[Dict[str, str]] = None\n@app.post(\"/send-notifications\")\ndef send_notification(req: NotificationRequest):\n    result = send_push_notification(\n        tokens=req.tokens,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "send_notification",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def send_notification(req: NotificationRequest):\n    result = send_push_notification(\n        tokens=req.tokens,\n        title=req.title,\n        body=req.body,\n        image=req.image,\n        data=req.data\n    )\n    if not result.get(\"success\"):\n        raise HTTPException(status_code=500, detail=result.get(\"error\", \"Unknown error\"))",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\nclass NotificationRequest(BaseModel):\n    tokens: List[str]\n    title: str\n    body: str\n    image: Optional[str] = None\n    data: Optional[Dict[str, str]] = None\n@app.post(\"/send-notifications\")\ndef send_notification(req: NotificationRequest):\n    result = send_push_notification(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "send_push_notification",
+        "kind": 2,
+        "importPath": "notifier",
+        "description": "notifier",
+        "peekOfCode": "def send_push_notification(\n    tokens: List[str],\n    title: str,\n    body: str,\n    image: Optional[str] = None,\n    data: Optional[Dict[str, str]] = None\n):\n    if not tokens:\n        return {\"success\": False, \"detail\": \"No tokens provided\"}\n    notification = messaging.Notification(title=title, body=body, image=image)",
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "SERVICE_ACCOUNT_PATH",
+        "kind": 5,
+        "importPath": "notifier",
+        "description": "notifier",
+        "peekOfCode": "SERVICE_ACCOUNT_PATH = os.path.join(os.getcwd(), 'firebase/hue-social-app-firebase-adminsdk-x72wc-e694a20e99.json')\nif not firebase_admin._apps:\n    cred = credentials.Certificate(SERVICE_ACCOUNT_PATH)\n    firebase_admin.initialize_app(cred)\ndef send_push_notification(\n    tokens: List[str],\n    title: str,\n    body: str,\n    image: Optional[str] = None,\n    data: Optional[Dict[str, str]] = None",
+        "detail": "notifier",
+        "documentation": {}
+    },
+    {
+        "label": "run_background_checks",
+        "kind": 2,
+        "importPath": "run_checks",
+        "description": "run_checks",
+        "peekOfCode": "def run_background_checks():\n    db = get_db(\"prod\")\n    user_ids = db.execute(text(\"SELECT id FROM users\")).scalars().all()\n    for user_id in user_ids:\n        badge_msgs = check_user_badge_progress(user_id)\n        plant_msgs = check_user_plant_progress(user_id)\n        all_msgs = badge_msgs + plant_msgs\n        if all_msgs:\n            send_push_notification(user_id=user_id, messages=all_msgs)",
+        "detail": "run_checks",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "peekOfCode": "def get_user(db, user_id):\n    result = db.execute(\n        text(\"\"\"\n            SELECT id, name, username,\n                   (SELECT name FROM phases WHERE id = users.current_phase) AS current_phase_name\n            FROM users\n            WHERE id = :uid\n        \"\"\"),\n        {\"uid\": user_id}\n    )",
+        "detail": "user_db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_friends",
+        "kind": 2,
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "peekOfCode": "def get_friends(db, user_id):\n    result = db.execute(\n        text(\"\"\"\n            SELECT DISTINCT u.id, u.push_token\n            FROM users u\n            -- outgoing accepted friend requests\n            INNER JOIN friends fr1 \n                ON fr1.friend_id = u.id\n                AND fr1.user_id = :uid\n                AND fr1.request_status = 'accept'",
+        "detail": "user_db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_name",
+        "kind": 2,
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "peekOfCode": "def get_user_by_name(db, name):\n    result = db.execute(\n        text(\"\"\"\n            SELECT id, name, username,\n                   (SELECT name FROM phases WHERE id = users.current_phase) AS current_phase_name\n            FROM users\n            WHERE name = :name\n        \"\"\"),\n        {\"name\": name}\n    )",
+        "detail": "user_db_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_by_username",
+        "kind": 2,
+        "importPath": "user_db_utils",
+        "description": "user_db_utils",
+        "peekOfCode": "def get_user_by_username(db, username):\n    result = db.execute(\n        text(\"\"\"\n            SELECT id, name, username,\n                   (SELECT name FROM phases WHERE id = users.current_phase) AS current_phase_name\n            FROM users\n            WHERE username = :username\n        \"\"\"),\n        {\"username\": username}\n    )",
+        "detail": "user_db_utils",
+        "documentation": {}
+    }
+]
